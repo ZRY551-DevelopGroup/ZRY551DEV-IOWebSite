@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: ZRY551-Dev
 description: 来自ZRY551-Dev的网站
 show_downloads: false
-is_project_page : false
-github : 
-	is_project_page : false
+is_project_page: false
+github: 
+	is_project_page: false
+	show_downloads: false
